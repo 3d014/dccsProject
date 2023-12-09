@@ -1,0 +1,16 @@
+.tableDiv{
+    
+    margin:50px 0 0 50px;
+    background-color:#f5f5f5;
+    border:1px;;
+    width:80%;
+   
+}
+.addMovie{
+    background-color: #c1cc3a;
+    border: none;
+    color: white;
+    font-weight: 200;
+    font-size: medium;
+    padding: 5px 10px 5px 10px;
+}

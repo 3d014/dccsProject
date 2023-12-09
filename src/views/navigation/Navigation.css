@@ -1,0 +1,49 @@
+
+
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0;
+    margin:0;
+    
+}
+
+.active{
+    color:#3f9ac9;
+   
+}
+
+.notActive{
+    margin-left: 20px;
+}
+ 
+
+.ma{
+    margin-top: 5px;
+    display: flex;
+    gap: 10px;
+    color:#265b77;
+    
+}
+.selectedLink{
+    background-color: #3f9ac9 ;
+    width: 5px;
+}
+.empty{
+    width: 5px;
+}
+
+.da{
+   
+    margin-left: 10px;
+    
+}
+
+.toggleIcon{
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.submenu{
+    margin-left: 20px;
+}

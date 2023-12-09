@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "common/models/menuItem.tsx", "common/models/movie.tsx"  ]
 }
